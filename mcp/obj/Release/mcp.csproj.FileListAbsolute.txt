@@ -1,0 +1,5 @@
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Release\mcp.dll
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Release\mcp.pdb
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Release\ResolveAssemblyReference.cache
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Release\mcp.dll
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Release\mcp.pdb

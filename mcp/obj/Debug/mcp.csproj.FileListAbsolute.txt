@@ -1,0 +1,17 @@
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\SensorShare3\mcp\obj\Debug\ResolveAssemblyReference.cache
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp\obj\Debug\ResolveAssemblyReference.cache
+C:\bin\Debug\SQLite.Interop.061.DLL
+C:\bin\Debug\mcp.dll
+C:\bin\Debug\mcp.pdb
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp\obj\Debug\mcp.dll
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp\obj\Debug\mcp.pdb
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\mcp.dll
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\mcp.pdb
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Debug\ResolveAssemblyReference.cache
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Debug\mcp.dll
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Debug\mcp.pdb
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\mcp.dll
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\mcp.pdb
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Debug\mcp.dll
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\mcp\obj\Debug\mcp.pdb

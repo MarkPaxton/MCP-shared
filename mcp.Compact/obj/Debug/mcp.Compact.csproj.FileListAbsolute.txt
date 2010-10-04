@@ -1,0 +1,12 @@
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp.Compact\obj\Debug\ResolveAssemblyReference.cache
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\Compact\SQLite.Interop.061.DLL
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\Compact\mcp.Compact.dll
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\Compact\mcp.Compact.pdb
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp.Compact\obj\Debug\mcp.Compact.dll
+\\noon\rapg$\mcp\My Documents\Visual Studio 2008\Projects\mcp-Shared\mcp.Compact\obj\Debug\mcp.Compact.pdb
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\Compact\SQLite.Interop.061.DLL
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\Compact\mcp.Compact.dll
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\bin\Debug\Compact\mcp.Compact.pdb
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\mcp.Compact\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\mcp.Compact\obj\Debug\mcp.Compact.dll
+C:\Users\pszmp\Documents\Visual Studio 2008\Projects\mcp-Shared\mcp.Compact\obj\Debug\mcp.Compact.pdb
